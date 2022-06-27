@@ -12,5 +12,5 @@ This file shows all data when it was labelled.
 
 ### `new_labels.csv`
 
-this file does not exist yet and must be created with the repository [manhole-cover-label](https://github.com/FiratSaritas/manhole-cover-labelling) and inserted here with the name 'new_label.csv'
+this file does not exist yet and must be created with the repository [manhole-cover-labelling](https://github.com/FiratSaritas/manhole-cover-labelling) and inserted here with the name 'new_label.csv'
 
