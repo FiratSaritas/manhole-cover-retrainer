@@ -24,10 +24,12 @@ This repository trains the resnet152 model to predict manhole covers in 13 diffe
 1. Clone project locally 
 
 ```bash
-git clone git@github.com:FiratSaritas/manhole-cover-labelling.git
+git clone git@github.com:FiratSaritas/manhole-cover-retrainer.git
 ```
 
-2. Save your images that you want to label in the folder `./data/images` 
+2. The images from the repository [manhole-cover-labelling](https://github.com/FiratSaritas/manhole-cover-labelling) from the folder ./data/images_transformed can be added to the folder ./data/images_transformed in this repository.
+
+3. Take the labels.csv file that was created by repository [manhole-cover-labelling](https://github.com/FiratSaritas/manhole-cover-labelling) in the folder ./data/ and rename it to "new_label.csv" and add it to the folder ./data/ in that repository.
 
 3. Install required packages
 
