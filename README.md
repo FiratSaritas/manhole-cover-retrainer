@@ -69,4 +69,4 @@ Output:
 
 ## Credits
 
-This is a continuation of the repository [classification](https://github.com/FiratSaritas/manhole-cover-classification) and the actual work was created on the other repository.
+This is a continuation of the repository [manhole-cover-classification](https://github.com/FiratSaritas/manhole-cover-classification) and the actual work was created on the other repository.
