@@ -65,11 +65,6 @@ pip install -r requirements.txt
 python retrainer.py
 ```
 
-2. After that we can start the webbrowser and label our images:
-```bash
-python main.py
-```
-
 Output:
   - When you have trained the model, you get a .pth file `model.pth`
 
