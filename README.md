@@ -37,11 +37,18 @@ Download images as Folder (images_transformed) from Google Drive and add it to t
 
 5. Install required packages
 
-Preferably you create a new enviorment (it should be made in conda).
-
+create a new enviorment with conda.
 
 ```bash
-pip install -r requirements.txt
+conda create --name retrainer
+```
+
+```bash
+activate retrainer
+```
+
+```bash
+python -m pip install -r requirements.txt
 ```
 
 Install Cuda:
