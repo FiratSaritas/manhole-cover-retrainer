@@ -47,14 +47,14 @@ conda create --name retrainer
 activate retrainer
 ```
 
-```bash
-pip install -r requirements.txt
-```
-
 Install Cuda:
 
 ```bash
 conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+```
+
+```bash
+pip install -r requirements.txt
 ```
 
 
