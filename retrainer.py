@@ -17,11 +17,14 @@ from sklearn.metrics import precision_score,recall_score,f1_score
 from sklearn.metrics import confusion_matrix
 import pickle
 import torch.nn.functional as F
-import seaborn as sns
 
 from utils import MHCoverDataset, get_dataloader
 from pathlib import Path
 from utils.training import TrainingInterface
+
+import warnings
+warnings.filterwarnings("ignore")
+
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(device)
