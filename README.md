@@ -31,7 +31,11 @@ git clone git@github.com:FiratSaritas/manhole-cover-retrainer.git
 
 3. Take the labels.csv file that was created by repository [manhole-cover-labelling](https://github.com/FiratSaritas/manhole-cover-labelling) in the folder ./data/ and rename it to "new_labels.csv" and add it to the folder ./data/ in that repository.
 
-3. Install required packages
+4. Download old Images
+
+Download images as Folder (images_transformed) from Google Drive and add it to the folder ./images_transformed here: (https://drive.google.com/drive/folders/1y5T1-WUZB1Vsp87aBiU6hDxagiY2mGgi?usp=sharing)
+
+5. Install required packages
 
 Preferably you create a new enviorment (it should be made in conda).
 
