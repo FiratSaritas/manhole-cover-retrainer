@@ -33,7 +33,7 @@ git clone git@github.com:FiratSaritas/manhole-cover-retrainer.git
 
 3. Install required packages
 
-Preferably you create a new enviorment (conda environment is also possible).
+Preferably you create a new enviorment (it should be made in conda).
 
 
 ```bash
