@@ -68,9 +68,7 @@ python retrainer.py
 Output:
   - When you have trained the model, you get a .pth file `model.pth`
 
-3. You can now replace this model with the old model in the repository [manhole-cover-model](https://github.com/FiratSaritas/manhole-cover-model)
-
-## Guide -Tips
+2. You can now replace this model with the old model in the repository [manhole-cover-model](https://github.com/FiratSaritas/manhole-cover-model)
 
 
 ## Credits
